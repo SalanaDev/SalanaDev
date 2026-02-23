@@ -1,7 +1,7 @@
 # Hi there, I'm Salana Alice! 👋
 
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas.
-​Atualmente, foco meus estudos no desenvolvimento back-end com C e PHP, buscando construir sistemas sólidos e eficientes.
+​Atualmente, foco meus estudos no desenvolvimento back-end com C e PHP, buscando construir sistemas sólidos e eficientes. 
 ​Também estou me especializando em metodologias ágeis através do curso de Scrum Fundamentals pelo VMEdu, integrando boas práticas de gestão ao ciclo de desenvolvimento.
 
 ### 🛠 Technologies
