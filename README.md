@@ -1,6 +1,8 @@
 # Hi there, I'm Salana Alice! 👋
 
-I am a Software Analysis and Development student focused on building a strong foundation in computer science and back-end development. I am currently deep-diving into **C** and **PHP** through Harvard's CS50x.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas.
+​Atualmente, foco meus estudos no desenvolvimento back-end com C e PHP, buscando construir sistemas sólidos e eficientes.
+​Também estou me especializando em metodologias ágeis através do curso de Scrum Fundamentals pelo VMEdu, integrando boas práticas de gestão ao ciclo de desenvolvimento.
 
 ### 🛠 Technologies
 <p align="left">
